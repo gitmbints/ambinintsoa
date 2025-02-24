@@ -21,8 +21,6 @@ I'm a Front-End developer, Angular enthousiast based in Madagascar, and I'm pass
 
 ## 📫 Contact
 
-Visit my [portfolio](https://portfolly.io/rahmbints)
-
 Or DM me on [LinkedIn](https://www.linkedin.com/in/ambinintsoa-harimanana-rakotonirina-a00b88191/). 
  
 
